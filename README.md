@@ -1,26 +1,15 @@
-
-____________
 <div align="center">
-<img src="https://i.pinimg.com/564x/87/89/c6/8789c65f834f2cba8ed960d1b16c7f20.jpg" align="center" style="width: 100%, height: 20% " />
+<img src="https://github.com/user-attachments/assets/d510d2b1-c562-4b12-9109-d2aef7c7adff" align="center" style="height:500px" />
 </div>  
-  
 
 ### <div align="center">I'm Bryan, a freelancer and data science student.</div>  
-  
 
 - 🌍 I'm based in Charlotte, NC    
-  
-
 - 🌱 I’m currently learning Hadoop, Apache Spark, and R  
-  
-
 - 🍥Aspiring Data Scientist  
   
-
-<br/>  
-
 ## Languages and Tools  
-<div align="center">  
+<div align="left">  
 <a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
@@ -34,11 +23,8 @@ ____________
 <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
 </div> 
 
-<br/>  
-
-
 ## Connect with me  
-<div align="center">
+<div align="left">
 <a href="https://github.com/bphach" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
@@ -46,29 +32,10 @@ ____________
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
-
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bphach&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="left"><img src="https://github-readme-stats.vercel.app/api?username=bphach&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
-<br/>  
-
-<div align="center">
+<div align="left">
 <img src="https://komarev.com/ghpvc/?username=bphach&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
-
-----
-
