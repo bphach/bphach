@@ -20,7 +20,7 @@ Now I am studying data science at UNC Charlotte to achieve my dreams to my dream
 <br/>  
 
 
-## Rapidfire  
+## About 
 <table><tr><td valign="top" width="50%">
 
 - 🌍 I'm based in Charlotte, NC  
@@ -35,7 +35,7 @@ Now I am studying data science at UNC Charlotte to achieve my dreams to my dream
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://i.pinimg.com/564x/c8/30/48/c83048e90aca8f7d10af948c7d3d989d.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/564x/c8/30/48/c83048e90aca8f7d10af948c7d3d989d.jpg" align="center" style="width: 50%" />
 </div>  
 
 
@@ -88,4 +88,4 @@ Now I am studying data science at UNC Charlotte to achieve my dreams to my dream
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
