@@ -1,7 +1,7 @@
 
 ____________
 <div align="center">
-<img src="https://i.pinimg.com/564x/87/89/c6/8789c65f834f2cba8ed960d1b16c7f20.jpg" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/564x/87/89/c6/8789c65f834f2cba8ed960d1b16c7f20.jpg" align="center" style="width: 100%, height: 20% " />
 </div>  
   
 
